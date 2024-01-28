@@ -1,6 +1,6 @@
-## Overview
+###Overview
 
-[![License: BSD](https://img.shields.io/badge/License-BSD-blue.svg)](https://opensource.org/licenses/bsd-3-clause)
+[![License:!BSD](https://img.shields.io/badge/License-BSD-blue.svg)](https://opensource.org/licenses/bsd-3-clause)
 [![codecov](https://codecov.io/gh/tezc/sc/branch/master/graph/badge.svg?token=O8ZHQ0XZ30)](https://codecov.io/gh/tezc/sc)
 
 Portable, stand-alone C libraries and data structures. (C99)
@@ -91,4 +91,4 @@ Sanitizers : valgrind and clang/gcc sanitizers(address, undefined, thread)
   are supposed to read the code and understand what it does and adapt it to your   
   needs. So, you should not update libraries blindly. I expect you to handle  
   any possible API differences easily. That being said, I'll do my best to keep  
-  API stable.
+  API stable. 
